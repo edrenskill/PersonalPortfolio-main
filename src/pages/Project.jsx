@@ -198,7 +198,7 @@ export const Projects = () => {
                 Live Demo {""}{" "}
                 <i className="fa-solid fa-share-from-square text-2xl"></i>
               </a>
-            </div>https://eipa-test.vercel.app/
+            </div>
           </div>
         </div>
 
