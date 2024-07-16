@@ -124,6 +124,17 @@ export const Projects = () => {
                 JAVASCRIPT
               </span>
             </div>
+            <div className="flex gap-5 items-center justify-center">
+              <a
+                className="flex font-semibold items-center justify-between gap-2"
+                href="https://eipa-test.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Live Demo {""}{" "}
+                <i className="fa-solid fa-share-from-square text-2xl"></i>
+              </a>
+            </div>
           </div>
         </div>
 
@@ -187,7 +198,7 @@ export const Projects = () => {
                 Live Demo {""}{" "}
                 <i className="fa-solid fa-share-from-square text-2xl"></i>
               </a>
-            </div>
+            </div>https://eipa-test.vercel.app/
           </div>
         </div>
 
