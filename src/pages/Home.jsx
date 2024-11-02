@@ -47,7 +47,7 @@ export const Home = () => {
             whileInView={`onScreen`}
             className="relative  xl:text-5xl sm:text-[30px] md:text-6xl  sm:text-center xl:text-start tracking-wide font-bold text-gray-800"
           >
-            Software Developer{" "}
+            Web Developer{" "}
             <span className="absolute animate-wiggle">👋🏻</span>
           </motion.h1>
           <motion.p
@@ -56,8 +56,7 @@ export const Home = () => {
             whileInView={`onScreen`}
             className="sm:text-center xl:text-start text-gray-800 tracking-wide text-[16px] sm:mt-0 md:mt-10 leading-6"
           >
-            Hi, I'm Edren von T. Cabonegro, React.Js Developer | WordPress
-            Developer | Nextjs Developer | Information Technology based in
+            Hi, I'm Edren von T. Cabonegro, Web Developer | Information Technology based in
             Quezon City,Philippines. 📍
           </motion.p>
           <div className="mt-6 flex items-center sm:justify-center xl:justify-start ">
