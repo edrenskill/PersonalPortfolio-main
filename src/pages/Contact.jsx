@@ -56,7 +56,7 @@ export const Contact = () => {
               </div>
               <div>
                 <a
-                  href="https://drive.google.com/file/d/1vsXvVZ0z2uG9KAnwxUV_f2sT7qlejMUm/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1IZ8qmbX1udb5w2qMaqfNXzCI5cA_l9wI/view?usp=sharing"
                   className="font-bold inline-block px-4 py-2 bg-white text-black no-underline rounded text-center"
                   target="_blank"
                   rel="noopener noreferrer"
