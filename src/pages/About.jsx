@@ -67,7 +67,7 @@ export const About = () => {
         >
           <h1 className="text-blue-400 font-bold">ABOUT ME 😉</h1>
           <h2 className="text-2xl text-slate-900 font-bold sm:text-center md:text-start">
-            A dedicated Software Developer based in Quezon City, Philippines 📍
+            A dedicated Web Developer based in Quezon City, Philippines 📍
           </h2>
           <motion.p
             initial="offScreen"
@@ -75,13 +75,13 @@ export const About = () => {
             viewport={{ once: true, amount: 0.8 }}
             className="opacity-60"
           >
-            I am a graduate of Information Technology and a passionate Software
-            Developer with a strong foundation in nextjs. I'm capable of
+            I am a graduate of Information Technology and a passionate Web
+            Developer with a strong foundation in Php. I'm capable of
             creating engaging user interfaces that blend both aesthetics and
             functionality seamlessly. Beyond Software technologies, I possess
             expertise in Express.js, postgres, and Node.js, enabling me to
             design and develop full-stack applications that deliver robust and
-            efficient user experiences. With a growing familiarity in Vue.js,
+            efficient user experiences. With a growing familiarity in,
             PHP, python, and Arduino C++, I am constantly expanding my skill set
             to craft dynamic and responsive digital solutions. I'm enthusiastic
             about tackling new challenges and contributing to innovative
